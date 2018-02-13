@@ -1,0 +1,1 @@
+This folder contain files that are linked with php code in its parent folder
